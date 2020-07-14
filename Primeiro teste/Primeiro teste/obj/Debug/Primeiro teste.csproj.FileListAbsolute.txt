@@ -1,0 +1,15 @@
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\bin\Debug\Primeiro teste.exe.config
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\bin\Debug\Primeiro teste.exe
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\bin\Debug\Primeiro teste.pdb
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.csprojAssemblyReference.cache
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\MainWindow.g.cs
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\App.g.cs
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste_MarkupCompile.cache
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste_MarkupCompile.lref
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\MainWindow.baml
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.g.resources
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro_teste.Properties.Resources.resources
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.csproj.GenerateResource.cache
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.exe
+C:\Users\laboratorio.ALFASYS\Desktop\C#\Primeiro teste\Primeiro teste\Primeiro teste\obj\Debug\Primeiro teste.pdb
